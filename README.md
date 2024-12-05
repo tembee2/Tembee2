@@ -2,14 +2,6 @@
   <img height="150" src="https://github.com/cyber-lua/cyber-lua/blob/main/goobly%20banner.png?raw=true"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
