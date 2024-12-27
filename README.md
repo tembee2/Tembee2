@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm cyber from The Netherlands<br><br>- 🔭 I’m working as an indie game dev<br>- 📚 I'm currently learning C# networking<br>- ⚡ In my free time I code (Duh)</p>
+<p align="left">I'm Tijn (AKA: xemopy) from The Netherlands<br><br>- 🔭 I’m working as an indie game dev<br>- 📚 I'm currently learning C# networking<br>- ⚡ In my free time I code (Duh)</p>
 
 ###
 
