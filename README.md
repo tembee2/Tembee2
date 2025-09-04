@@ -21,9 +21,6 @@
 <p><a target="_blank" href="https://twitter.com/tembee_2" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/@tembee2" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tembee2&show_icons=true&locale=en" alt="Tembee2" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tembee2&" alt="Tembee2" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tembee2&show_icons=true&locale=en&layout=compact" alt="Tembee2" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tembee2" alt="Tembee2" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/idonthaveakofiyet">
